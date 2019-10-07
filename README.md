@@ -1,19 +1,21 @@
 # Leetcode-Practice-GHC19
-Started out as a practice study group for Grace Hopper 2019. 
+Started out as a repo for practice study group for Grace Hopper 2019. 
 
-*Leetcode Practice #GHC19* will be exclusive for Leetcode /Coding Practice help/find partners to practice together for GHC Interviews! Best of Luck! ❤✨
-LeetCode Prep Group invite link - https://chat.whatsapp.com/D9ELXFHjCnrDLmRPF8znFG 
-
-# Books 
+## Books 
 -Programming interviews exposed
+
 -Landing your next job
+
 -Elements of programming interviews 
+
 -The algorithm design manual 
+
 -Cracking the coding interview
 
 Leetcode Prep Daily Progress Checklist Google Sheets Link - 
 https://docs.google.com/spreadsheets/d/109gSY4frs7uqitTbAuEpvEYZmgAyb_K5_gCSyt0FUP4/edit?usp=sharing
 
+GHC International Friendly Companies - https://docs.google.com/spreadsheets/u/1/d/1RXC3uxnb8cFx_PzLADkNgzvGX-HT2dV9LFWa7Yq6pt4/htmlview#gid=0
 
 ## Frequently asked questions as of September 2019
 1)	Implement Directed graph
