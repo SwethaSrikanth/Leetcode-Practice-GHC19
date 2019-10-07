@@ -42,7 +42,7 @@ Started out as a practice study group for Grace Hopper 2019.
 38)	Spiral Matrix.
 39)	Two Sum
 
-1point3acres
+## 1point3acres
 1.	Integer to English words
 2.	Max leaf to any need of path
 3.	Top k frequent elements.
