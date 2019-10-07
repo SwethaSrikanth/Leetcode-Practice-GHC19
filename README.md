@@ -1,7 +1,7 @@
-## Leetcode-Prep
+# Leetcode-Prep
 Started out as a practice study group for Grace Hopper 2019. 
 
-# Frequently asked questions as of September 2019
+## Frequently asked questions as of September 2019
 1)	Implement Directed graph
 2)	Shortest path between two nodes.
 3)	Course schedule.
