@@ -1,5 +1,5 @@
 # Leetcode-Practice-GHC19
-Started out as a repo for practice study group for Grace Hopper 2019. 
+Started out as a repo for Leet practice study group for Grace Hopper 2019. 
 
 ## Books 
 -Programming interviews exposed <br /> 
