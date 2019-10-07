@@ -1,7 +1,7 @@
-# Leetcode-Prep
+# Leetcode-Practice-GHC19
 Started out as a practice study group for Grace Hopper 2019. 
 
-*Leetcode Practice #GHC19* will be exclusive for Leetcode /Coding Practice help/find partners to practice together! Best of Luck! ❤✨
+*Leetcode Practice #GHC19* will be exclusive for Leetcode /Coding Practice help/find partners to practice together for GHC Interviews! Best of Luck! ❤✨
 LeetCode Prep Group invite link - https://chat.whatsapp.com/D9ELXFHjCnrDLmRPF8znFG 
 
 Leetcode Prep Daily Progress Checklist Google Sheets Link - 
