@@ -1,5 +1,11 @@
 # Leetcode-Prep
 Started out as a practice study group for Grace Hopper 2019. 
+*Leetcode Practice #GHC19* will be exclusive for Leetcode /Coding Practice help/find partners to practice together! Best of Luck! ❤✨
+
+Leetcode Prep Questions Checklist GoogleSheets Link - 
+https://docs.google.com/spreadsheets/d/109gSY4frs7uqitTbAuEpvEYZmgAyb_K5_gCSyt0FUP4/edit?usp=sharing
+
+LeetCode Prep Group invite link - https://chat.whatsapp.com/D9ELXFHjCnrDLmRPF8znFG 
 
 ## Frequently asked questions as of September 2019
 1)	Implement Directed graph
