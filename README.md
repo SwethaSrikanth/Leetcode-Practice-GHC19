@@ -2,11 +2,11 @@
 Started out as a repo for practice study group for Grace Hopper 2019. 
 
 ## Books 
--Programming interviews exposed
--Landing your next job
--Elements of programming interviews 
--The algorithm design manual 
--Cracking the coding interview
+-Programming interviews exposed <br /> 
+-Landing your next job <br /> 
+-Elements of programming interviews <br /> 
+-The algorithm design manual <br /> 
+-Cracking the coding interview <br /> 
 
 Leetcode Prep Daily Progress Checklist Google Sheets Link - 
 https://docs.google.com/spreadsheets/d/109gSY4frs7uqitTbAuEpvEYZmgAyb_K5_gCSyt0FUP4/edit?usp=sharing
