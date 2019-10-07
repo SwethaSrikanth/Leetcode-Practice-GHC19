@@ -4,6 +4,13 @@ Started out as a practice study group for Grace Hopper 2019.
 *Leetcode Practice #GHC19* will be exclusive for Leetcode /Coding Practice help/find partners to practice together for GHC Interviews! Best of Luck! ❤✨
 LeetCode Prep Group invite link - https://chat.whatsapp.com/D9ELXFHjCnrDLmRPF8znFG 
 
+# Books 
+-Programming interviews exposed
+-Landing your next job
+-Elements of programming interviews 
+-The algorithm design manual 
+-Cracking the coding interview
+
 Leetcode Prep Daily Progress Checklist Google Sheets Link - 
 https://docs.google.com/spreadsheets/d/109gSY4frs7uqitTbAuEpvEYZmgAyb_K5_gCSyt0FUP4/edit?usp=sharing
 
@@ -49,6 +56,9 @@ https://docs.google.com/spreadsheets/d/109gSY4frs7uqitTbAuEpvEYZmgAyb_K5_gCSyt0F
 38)	Spiral Matrix.
 39)	Two Sum
 
+
+### Amazon Frequently asked Assesment Questions 	https://leetcode.com/discuss/interview-question/344650/Amazon-Online-Assessment-Questions
+
 ## 1point3acres
 1.	Integer to English words
 2.	Max leaf to any need of path
@@ -67,4 +77,4 @@ https://docs.google.com/spreadsheets/d/109gSY4frs7uqitTbAuEpvEYZmgAyb_K5_gCSyt0F
 15.	Implement hashmap
 
 
-## Amazon Frequently asked Assesment Questions 	https://leetcode.com/discuss/interview-question/344650/Amazon-Online-Assessment-Questions
+
