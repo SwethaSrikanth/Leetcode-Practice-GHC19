@@ -65,3 +65,6 @@ https://docs.google.com/spreadsheets/d/109gSY4frs7uqitTbAuEpvEYZmgAyb_K5_gCSyt0F
 13.	design a file system filter
 14.	minimum window and maximum window.
 15.	Implement hashmap
+
+
+## Amazon Frequently asked Assesment Questions 	https://leetcode.com/discuss/interview-question/344650/Amazon-Online-Assessment-Questions
